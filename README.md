@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Yuhang Tian (Timo)
 ### I am currently a master student studying at TU Delft
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Timo9Madrid7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yuhangt1an/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/Timo9Madrid7/)  [<img src='https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/6f/5f/3f/6f5f3f30-1099-6c52-4b84-eb2829eec638/AppIcon-1x_U007emarketing-0-6-0-0-sRGB-85-220.png/1024x1024w.png' alt='bilibili' height='40'>](https://space.bilibili.com/278123980)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Timo9Madrid7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yuhangt1an/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/Timo9Madrid7/)  [<img src='https://simpleicons.org/icons/bilibili.svg' alt='bilibili' height='40'>](https://space.bilibili.com/278123980)  
 
 Skills: Python / C&C++ / JAVA / VHDL
 

@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is [Yuhang Tian](https://timo9madrid7.github.io) (Timo)
 ### ~I am currently an MSc student studying at TU Delft~
 ### ~I am currently a security researcher in NSFocus~
-### ~I am currently working in Continental as an IT graduate~ (terminated my contract before starting work; into my blacklist)
+### ~I am currently working in Continental as an IT graduate~
 
 Github: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Timo9Madrid7)  LinkedIn: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yuhangt1an/)  Steam: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg' alt='steam' height='40'>](https://steamcommunity.com/id/Timo9Madrid7/)  BiliBili: [<img src='https://simpleicons.org/icons/bilibili.svg' alt='bilibili' height='40'>](https://space.bilibili.com/278123980)  
 

@@ -1,4 +1,5 @@
-## Hi there 👋, my name is [Yuhang Tian](https://timo9madrid7.github.io) (Timo)
+## Hi there 👋, my name is Timo. 
+For more information, you are welcome to visit my [personal webpage](https://timo9madrid7.github.io/).
 ### ~I am currently an MSc student studying at TU Delft~
 ### ~I am currently a security researcher in NSFocus~
 ### ~I am currently working in Continental as an IT graduate~

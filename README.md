@@ -1,6 +1,6 @@
 ## Hi there 👋, my name is Timo. 
 For more information, you are welcome to visit my [personal webpage](https://timo9madrid7.github.io/).
-### ~I am currently an MSc student studying at TU Delft~
+### ~I am currently studying at TU Delft as an MSc student~
 ### ~I am currently working in NSFocus as a security researcher~
 ### ~I am currently working in Continental as an IT graduate~
 

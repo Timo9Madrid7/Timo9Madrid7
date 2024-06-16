@@ -1,14 +1,13 @@
 ## :wave: Hi there, my name is Timo
 
-#### ~~I am currently studying at TU Delft as an MSc student~~
+- ~~I am currently studying at TU Delft as an MSc student~~
+- ~~I am currently working at NSFocus as a security researcher~~
+- ~~I am currently working at Continental AG as an IT graduate~~
+- I am currently working at TZL Coffee as a barista
 
-#### ~~I am currently working at NSFocus as a security researcher~~
+---
 
-#### ~~I am currently working at Continental AG as an IT graduate~~
-
-#### I am currently working at TZL Coffee as a barista
-
-### :pushpin: Also welcome to visit my [webpage](https://timo9madrid7.github.io/)
+### :pushpin: Also welcome to visit my [🏠 Homepage](https://timo9madrid7.github.io/)
 
 ### 🚀 Social Medias:
 <div align="left">
@@ -27,7 +26,7 @@
     <a href="https://www.xiaohongshu.com/user/profile/6202a29b000000001000a96a">
     <img src="https://files.brandlogos.net/svg/6pHg9QdYGc/Xiaohongshu-OQLB1Y4HE_brandlogos.net.svg" width="52" height="40" alt="xiaohongshu"  />
     </a>
-    <a href="https://space.bilibili.com/278123980">
+    <a href="https://space.bilibili.com/278123980" target>
     <img src="https://upload.wikimedia.org/wikipedia/en/b/b7/Bilibili_logo.svg" width="52" height="40" alt="bilibili"  />
     </a>
 </div>
@@ -57,9 +56,9 @@
 
 ### ✨ Congratulations!
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visitor.
+#### You are my ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visitor.
 
-Sincerely thanks for your visit!
+#### Sincerely thanks for your visit!
 
 <div align="left">
   <img height="400" width="800" src="https://github.com/Timo9Madrid7/Timo9Madrid7/blob/main/background.png?raw=true"  />

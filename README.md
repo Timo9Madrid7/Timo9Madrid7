@@ -3,7 +3,8 @@
 - ~~I am currently studying at TU Delft as an MSc student~~
 - ~~I am currently working at NSFocus as a security researcher~~
 - ~~I am currently working at Continental AG as an IT graduate~~
-- I am currently working at TZL Coffee as a barista
+- ~~I am currently working at TZL Coffee as a barista~~
+- I am currently working at TU Eindhoven as a Doctor of Engineering
 
 ---
 

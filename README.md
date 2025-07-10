@@ -10,9 +10,9 @@
 
 ### :pushpin: Also welcome to visit my [🏠 Homepage](https://timo9madrid7.github.io/)
 
-<table>
+<table style="width:100%; table-layout:fixed;">
   <tr>
-    <td align="left">
+    <td style="white-space: nowrap;">
       <h3>🚀 Social Medias:</h3>
       <a href="https://github.com/Timo9Madrid7">
         <img src="https://www.svgrepo.com/download/475654/github-color.svg" width="52" height="40" alt="github" />
@@ -24,13 +24,11 @@
         <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" width="52" height="40" alt="leetcode" />
       </a>
     </td>
-    <td align="right">
-      <h3>:hammer_and_wrench: Languages:</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
+    <td style="white-space: nowrap;">
+      <h3>🛠️ Languages:</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="display:inline-block;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" style="display:inline-block;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" style="display:inline-block;" />
     </td>
   </tr>
 </table>

@@ -37,7 +37,7 @@
 
 ### ✨ Congratulations!
 
-#### You are my ![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg) visitor.
+#### You are my ![](https://komarev.com/ghpvc/?username=Timo9Madrid7&style=plastic) visitor.
 
 #### Sincerely, thanks for your visit!
 

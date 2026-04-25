@@ -35,7 +35,6 @@
   "focus":    ["Software Develop", "AI Privacy", "Cybersecurity"],
   "status":   "⚡ actively building",
   "homepage": "https://timo9madrid7.github.io",
-  "coffee":   true
 }
 ```
 

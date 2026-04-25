@@ -82,7 +82,8 @@
 ---
 
 <div align="center">
-👁 You are my ![Visitor Count](https://komarev.com/ghpvc/?username=Timo9Madrid7&style=flat-square&color=00ffb3&label=visitor) visitor &nbsp;·&nbsp; *Sincerely, thanks for stopping by! — Timo*
+
+👁 You are my <img src="https://komarev.com/ghpvc/?username=Timo9Madrid7&style=flat-square&color=00ffb3&label=visitor" alt="visitor count" /> visitor &nbsp;·&nbsp; *Sincerely, thanks for stopping by! — Timo*
  
 *`> EOF`*
  

@@ -1,46 +1,89 @@
-## :wave: Hi there, my name is Timo
+<div align="center">
 
-- ~~I am currently studying at TU Delft as an MSc student~~
-- ~~I am currently working at NSFocus as a security researcher~~
-- ~~I am currently working at Continental AG as an IT graduate~~
-- ~~I am currently working at TZL Coffee as a barista~~
-- I am currently working at TU Eindhoven as an Engineer Doctorate
+```
+████████╗██╗███╗   ███╗ ██████╗ 
+╚══██╔══╝██║████╗ ████║██╔═══██╗
+   ██║   ██║██╔████╔██║██║   ██║
+   ██║   ██║██║╚██╔╝██║██║   ██║
+   ██║   ██║██║ ╚═╝ ██║╚██████╔╝
+   ╚═╝   ╚═╝╚═╝     ╚═╝ ╚═════╝ 
+```
+
+</div>
+
+<div align="center">
+
+# `> whoami`
+
+### 👾 Timo · Engineer Doctorate @ TU Eindhoven · EngD Trainee @ ASML
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Building+things+that+matter...;Full-Stack+%7C+Systems+%7C+Research;Coffee+%E2%98%95+%2B+Code+%F0%9F%92%BB+%3D+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### :pushpin: Also welcome to visit my [🏠 Homepage](https://timo9madrid7.github.io/)
+<img align="right" width="340" src="https://github.com/Timo9Madrid7/Timo9Madrid7/blob/main/background.png?raw=true" alt="banner" />
 
-<table style="width:100%; table-layout:fixed;">
-  <tr>
-    <td>
-      <h3>🚀 Technical Profiles:</h3>
-      <a href="https://github.com/Timo9Madrid7" style="margin-right: 16px;">
-        <img src="https://www.svgrepo.com/download/475654/github-color.svg" width="40" height="40" alt="github" />
-      </a>
-      <a href="https://www.linkedin.com/in/yuhangt1an" style="margin-right: 16px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="40" alt="linkedin" />
-      </a>
-      <a href="https://leetcode.com/u/Timo9Madrid7">
-        <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" width="40" height="40" alt="leetcode" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🛠️ Programming Languages:</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" style="display:inline-block; margin-right: 10px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" style="display:inline-block; margin-right: 16px;" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" style="display:inline-block;" />
-    </td>
-  </tr>
-</table>
+## `$ cat profile.json`
 
-### ✨ Congratulations!
+```json
+{
+  "name":     "Timo",
+  "role":     "Engineer Doctorate",
+  "org":      "TU Eindhoven",
+  "focus":    ["Software Develop", "AI Privacy", "Cybersecurity"],
+  "status":   "⚡ actively building",
+  "homepage": "https://timo9madrid7.github.io",
+  "coffee":   true
+}
+```
 
-#### You are my ![](https://komarev.com/ghpvc/?username=Timo9Madrid7&style=plastic) visitor.
+### `$ history | grep career`
 
-#### Sincerely, thanks for your visit!
+```bash
+[2024-now]  EngD @ TU Eindhoven        ← you are here
+[2024-2024] Barista @ TZL Coffee       ✓ completed
+[2023-2024] IT Graduate @ Continental  ✓ completed
+[2022-2023] Security Researcher @ NSFocus ✓ completed
+[2020-2022] MSc @ TU Delft             ✓ completed
+```
 
-<div align="left">
-  <img height="400" width="800" src="https://github.com/Timo9Madrid7/Timo9Madrid7/blob/main/background.png?raw=true"  />
+---
+
+## `$ ls ./connect/`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Timo9Madrid7-0d1117?style=for-the-badge&logo=github&logoColor=00FFB3&labelColor=0d1117)](https://github.com/Timo9Madrid7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-yuhangt1an-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FFB3&labelColor=0d1117)](https://www.linkedin.com/in/yuhangt1an)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Timo9Madrid7-0d1117?style=for-the-badge&logo=leetcode&logoColor=00FFB3&labelColor=0d1117)](https://leetcode.com/u/Timo9Madrid7)
+[![Homepage](https://img.shields.io/badge/🏠_Homepage-timo9madrid7.github.io-0d1117?style=for-the-badge&logoColor=00FFB3&labelColor=0d1117)](https://timo9madrid7.github.io/)
+
+</div>
+
+---
+
+## `$ cat tech_stack.sh`
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00FFB3)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=00FFB3)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=00FFB3)
+
+**Backend & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=00FFB3)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00FFB3)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=00FFB3)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=00FFB3)
+
+---
+
+<div align="center">
+👁 You are my ![Visitor Count](https://komarev.com/ghpvc/?username=Timo9Madrid7&style=flat-square&color=00ffb3&label=visitor) visitor &nbsp;·&nbsp; *Sincerely, thanks for stopping by! — Timo*
+ 
+*`> EOF`*
+ 
 </div>

@@ -33,8 +33,9 @@
   "role":     "Engineer Doctorate",
   "org":      "TU Eindhoven",
   "focus":    ["Software Develop", "AI Privacy", "Cybersecurity"],
-  "status":   "⚡ actively building",
+  "status":   "⚡actively building",
   "homepage": "https://timo9madrid7.github.io",
+  "LinkedIn": "https://www.linkedin.com/in/yuhangtian",
 }
 ```
 
